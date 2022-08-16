@@ -1,2 +1,2 @@
-# HW_1_Terminal
+# Terminal
 Homeworks from Vadim Ksendzov's course https://ksendzov.com/
